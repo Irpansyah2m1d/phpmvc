@@ -1,0 +1,310 @@
+body {
+  max-height: 2500px;
+}
+
+#section-header .img-logo {
+  width: 191px;
+  height: auto;
+}
+
+.navbar-nav {
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+  color: black;
+}
+
+#section-header .active {
+  font-weight: bold;
+  color: #f7862d;
+}
+
+#section-header a:hover {
+  transform: scale(1.15);
+}
+
+/* Banner */
+
+#banner .img-banner {
+  width: 100%;
+  height: auto;
+}
+
+#banner .text-banner {
+  padding-top: 150px;
+}
+
+#banner span {
+  color: #f7862d;
+}
+
+#banner h6 {
+  color: #acacac;
+  font-size: 16px;
+  margin-top: 21px;
+}
+
+#banner .btn-warning {
+  background-color: #f7862d;
+  color: white;
+  border-radius: 23px;
+
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#banner .btn-warning:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+  background-color: #bf631e;
+}
+#banner .btn-light {
+  background-color: #746e6e;
+  color: white;
+  border-radius: 23px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#banner .btn-light:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+  background-color: rgb(60, 58, 58);
+}
+
+/* Section Content */
+#section-content {
+  margin-top: 100px;
+}
+
+#section-content .img-section2 {
+  width: 600px;
+  height: auto;
+}
+#section-content .text-1 {
+  color: #1cb222;
+  margin-top: 100px;
+}
+#section-content .btn-warning {
+  background-color: #f7862d;
+  color: white;
+  border-radius: 23px;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+#section-content .btn-warning:hover {
+  transform: scale(1.05);
+  transition: 0.5s;
+  background-color: #bf631e;
+}
+
+#section-content .text-2 {
+  color: #746e6e;
+  margin-top: 15px;
+}
+
+#section-content span {
+  color: #f7862d;
+}
+
+/* Section Menu */
+#section-menu {
+  margin-top: 100px;
+}
+
+#section-menu span {
+  color: #f7862d;
+}
+
+#section-menu h6 {
+  color: #746e6e;
+}
+
+#section-menu .card {
+  box-shadow: 0px 0px 80px rgba(0, 0, 0, 0.37);
+  border-radius: 10px;
+}
+
+#section-menu .card-img-top:hover {
+  transform: scale(1.12);
+  transition: 0.5s;
+}
+
+#section-menu .card-body {
+  background-color: #f7862d;
+}
+
+#section-menu .btn-primary {
+  background-color: white;
+  color: #f7862d;
+  border-radius: 23px;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 10px;
+  /* opacity: 1; */
+  transition: 0.5s;
+}
+
+#section-menu .btn-primary:hover {
+  transform: scale(1.06);
+  /* opacity: 0.5; */
+  background-color: #ff8400;
+  color: rgb(253, 253, 253);
+}
+
+#section-menu .terpesan {
+  background-color: #3eff44;
+  color: bhite;
+}
+#section-menu .terpesan:hover {
+  background-color: #3eff44;
+}
+
+#section-menu a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+/* Section Informasi */
+
+#section-informasi {
+  margin-top: 100px;
+}
+
+#section-informasi span {
+  color: #f7862d;
+}
+
+#section-informasi .form-control {
+  border-color: #f7862d;
+}
+
+#section-informasi .btn-warning {
+  width: 147px;
+  background-color: #f7862d;
+  color: white;
+  border-radius: 23px;
+  font-weight: bold;
+  font-size: 17px;
+  transition: 0.5s;
+}
+
+#section-informasi .btn-warning:hover {
+  transform: scale(1.05);
+  background-color: #bf631e;
+}
+
+/* Footer */
+
+#section-footer {
+  margin-top: 100px;
+}
+
+#section-footer hr {
+  border: solid 2px #f7862d;
+}
+
+#section-footer .logo-footer {
+  width: 191px;
+}
+
+#section-footer h6 {
+  color: #746e6e;
+  line-height: 23px;
+  margin-left: 30px;
+}
+
+#section-footer .col-lg-6 a {
+  display: block;
+  color: #acacac;
+  text-decoration: none;
+}
+#section-footer a:hover {
+  color: blue;
+  font-weight: bold;
+  transform: scale(1.05);
+}
+#section-footer .fab:hover {
+  color: blue;
+  font-weight: bold;
+  transform: scale(1.15);
+}
+
+/* Style CSS Untuk Halaman Service */
+
+/* Section 1 */
+#section-satu span {
+  color: #f7862d;
+}
+
+#section-satu h6 {
+  color: #acacac;
+}
+
+#section-satu .img-service {
+  width: 100%;
+  height: auto;
+}
+
+/* Section 2 */
+
+#section-dua {
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+#section-dua .baris1 {
+  margin-bottom: 180px;
+}
+
+#section-dua .img-baris1 {
+  width: 120px;
+  height: auto;
+  /* margin-bottom: 20px; */
+}
+
+#section-dua .img-baris2 {
+  width: 120px;
+  height: auto;
+}
+
+#section-dua img:hover {
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+
+#section-dua h6 {
+  color: #acacac;
+}
+
+#section-dua h4 {
+  font-weight: bold;
+}
+
+/* Daftar Pesanan */
+.daftarPesanan {
+  width: 120px;
+  height: 100px;
+  border-radius: 50%;
+  line-height: 100px;
+  text-align: center;
+  background-color: #a29d9d;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 999;
+}
+.cekEmail {
+  width: 120px;
+  height: 100px;
+  border-radius: 50%;
+  line-height: 100px;
+  text-align: center;
+  background-color: #a29d9d;
+  position: fixed;
+  right: 20px;
+  bottom: 130fgdpx;
+  z-index: 999;
+}
